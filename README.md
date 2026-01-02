@@ -3,8 +3,11 @@
 PTT via Pin 26 (HF VHF UHF)
 
 BCD A	  Pin 33
+
 BCD B	  Pin 32
+
 BCD C 	Pin 22
+
 BCD D	  Pin 17
 
 Short Vid: https://www.youtube.com/shorts/tgXO_a_IPUA
